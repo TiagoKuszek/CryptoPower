@@ -190,6 +190,24 @@ html{
     font-family: unoR;
 }
 
+.gridimagen{
+    height: 350px;
+    width: 400px;
+    border-radius: 15px;
+}
+
+#ed1{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 10px;
+}
+.textoasic{
+    color: white;
+    margin-top: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
 .contacta3{
     font-family: unoR;
     text-align: center;
@@ -201,14 +219,15 @@ html{
 }
 
 .ed{
+    margin-top: 70px;
     color: white;
     text-align: center;
     font-family: dosG;
 }
 
 .imagencontacto{
-    height: 350px;
-    width: 450px;
+    height: 300px;
+    width: 400px;
     border-radius: 12px;
 }
 
