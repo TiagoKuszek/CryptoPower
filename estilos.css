@@ -196,13 +196,13 @@ html{
     margin-bottom: 20px;
     border-radius: 15px;
     filter: grayscale(100%);
-    transform: scale(1);
+    transform: scale(.9);
     transition: .8s;
 }
 
 .gridimagen:hover{
     filter: grayscale(0%);
-    transform: scale(1.1);
+    transform: scale(1);
     transition: .8s;
 }
 
@@ -269,7 +269,7 @@ html{
     height: 55px;
     line-height: 55px;
     bottom: 30px;
-    right: 30px;
+    right: 60px;
     z-index: 1;
     background: #0df053;
     color: #fff;
